@@ -32,7 +32,31 @@ L'association fait appel à une équipe de Data Analysts afin d’***identifier 
 
 - **[Détails Méthodologie](./docs/methodologie.md)** 
 
-## Livrable
+## Livrables
+
+- Définitions de KPI
+- Recommandations de stratégies d'intervention anticipées
+- Dashboard Interactif
+- Modèle de prédiction de dépression (probalité)
+- Interface utilisateur permettant la saisie
+
+## Description du DataSet
+
+- ***27901*** réponses à l'enquête anonyme.
+- **Descriptif des colonnes** ***(éléments de réponse de chaque étudiant.e)***
+  - **Genre** : Féminin ou Masculin
+  - **Age** : Age de l'étudiant.e
+  - **Ville** : Résidence de l'étudiant.e pour ses études
+  - **Pression académique** : de 0 à 5
+  - **Pression professionnelle** : de 0 à 5 
+  - **Durée de sommeil** : par tranche  
+  - **Habitudes alimentaires** : Saines, Modérées, Saines 
+  - **Satisfaction des études** : de 0 à 5  
+  - **Stress financier** : de 0 à 5
+  - **Antécédent familial de maladie mentale** : oui, non 
+  - **Dépression** : 0 = pas de signe, 1 = présence de signes  
+  - **CGPA** : Moyenne académique cumulée (échelle de 0 à 10)
+  - **Niveau d'Etude** : Diplôme visé 
 
 ## Structure du dépôt
 ```
@@ -48,9 +72,6 @@ CampusCARE/
 ├── images/                 # Visuels, Captures d'écran, logos
 └── README.md               # Description du projet
 ```
-## Accès aux fichiers
-- **[Méthodologie et plan d'exécution](./docs/methodologie.md)** : Etapes et Résolution du Projet.
-- **[Dataset](./donnees/brute/dataset.csv)** : Contient des informations démographiques, psychologiques, et liées au style de vie des étudiants en Inde.
 
 ## Licence
-[Votre choix de licence]
+- [**MIT**](./LICENSE)
