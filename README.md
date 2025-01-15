@@ -1,5 +1,3 @@
-# CampusCARE
-
 # CampusCARE Analysis
 
 ## Contexte
