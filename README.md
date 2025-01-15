@@ -1,5 +1,12 @@
 # CampusCARE
 
+<br>
+<p align="center">
+  <img src="./images/CampusCare.webp" alt="Campus Care" width="300">
+</p>
+<br>
+
+
 ## Contexte
 CampusCARE est une association qui a pour but de préserver la santé mentale des étudiants dans le monde.
 
@@ -25,11 +32,12 @@ Afin de mieux comprendre les profils au sein des différents campus et suivre le
 CampusCARE/
 ├── donnees/                # Contient les données brutes et transformées
 │   ├── brutes/             # Données brutes (non modifiées)
-│   ├── nettoyees/           # Données nettoyées ou modifiées
+│   ├── nettoyees/          # Données nettoyées ou modifiées
 ├── scripts/                # Scripts Python pour le traitement, l'analyse et la modélisation
 ├── notebooks/              # Notebooks pour l'exploration et la visualisation des données
 ├── resultats/              # Graphiques, visualisations et rapport final
 ├── docs/                   # Documentation, Méthodologie
+├── images/                 # Visuels, Captures d'écran, logos
 └── README.md               # Description du projet
 ```
 ## Accès aux fichiers
