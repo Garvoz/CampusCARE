@@ -1,4 +1,4 @@
-# CampusCARE Analysis
+# CampusCARE
 
 ## Contexte
 CampusCARE est une association dédiée à la santé mentale des étudiants. Ce projet se concentre sur les données recueillies en Inde pour identifier les facteurs associés à la dépression et concevoir des stratégies d'intervention.
