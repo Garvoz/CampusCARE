@@ -1956,7 +1956,6 @@ Femme,21,Meerut,Bachelor,5,7.83,2,Moins de 5 heures,Mauvaises,True,12,2,True,1
 Homme,28,Agra,Master,5,5.8,5,5-6 heures,Saines,False,10,3,True,0
 Femme,22,Surat,Bachelor,3,6.89,5,5-6 heures,Mauvaises,True,2,3,True,1
 Femme,24,Lucknow,Bachelor,2,6.28,3,Plus de 8 heures,Saines,True,0,1,False,0
-Femme,30,Ludhiana,Bachelor,3,5.42,2,,Mauvaises,True,1,2,False,0
 Femme,31,Vadodara,Master,2,7.53,5,Moins de 5 heures,Modérées,False,7,3,False,0
 Femme,23,Lucknow,Bachelor,3,5.59,3,5-6 heures,Saines,True,5,3,True,1
 Homme,27,Bhopal,Bachelor,3,6.28,4,Moins de 5 heures,Modérées,False,11,1,False,0
@@ -3791,7 +3790,6 @@ Femme,24,Surat,Bachelor,2,7.09,3,Plus de 8 heures,Mauvaises,True,7,5,False,1
 Homme,28,Hyderabad,Doctorat,4,8.58,4,Moins de 5 heures,Saines,True,11,5,False,1
 Femme,32,Visakhapatnam,Master,3,9.96,1,Moins de 5 heures,Modérées,True,2,3,False,0
 Femme,23,Pune,Master,3,6.16,3,Plus de 8 heures,Saines,True,10,1,True,1
-Femme,18,Agra,Bachelor,3,6.03,4,,Mauvaises,True,12,5,False,1
 Femme,26,Chennai,Bachelor,3,5.97,5,Plus de 8 heures,Modérées,True,10,5,True,0
 Homme,28,Visakhapatnam,Master,3,7.77,5,Moins de 5 heures,Modérées,False,9,3,False,0
 Femme,20,Srinagar,Bachelor,2,9.93,4,5-6 heures,Saines,True,10,3,True,1
@@ -3967,7 +3965,6 @@ Femme,20,Indore,Bachelor,4,6.17,3,Moins de 5 heures,Saines,True,0,4,True,1
 Homme,20,Meerut,Bachelor,4,8.14,4,Plus de 8 heures,Mauvaises,True,8,4,False,1
 Femme,32,Chennai,Master,5,5.56,2,7-8 heures,Modérées,True,8,4,False,1
 Femme,28,Rajkot,Master,1,7.64,4,5-6 heures,Mauvaises,True,6,4,True,0
-Femme,27,Ludhiana,Master,4,5.08,5,,Saines,True,8,5,True,1
 Homme,18,Vasai-Virar,Bachelor,3,8.64,1,Moins de 5 heures,Modérées,True,9,2,False,1
 Femme,21,Srinagar,Bachelor,5,5.11,5,5-6 heures,Mauvaises,True,10,4,True,1
 Homme,28,Jaipur,Bachelor,1,9.96,4,Moins de 5 heures,Saines,False,7,1,False,0
@@ -4347,7 +4344,6 @@ Femme,20,Chennai,Bachelor,3,9.79,2,Moins de 5 heures,Modérées,True,8,4,True,1
 Homme,33,Kalyan,Master,4,5.74,4,Moins de 5 heures,Modérées,False,2,1,False,0
 Homme,20,Jaipur,Bachelor,1,7.8,5,7-8 heures,Modérées,False,1,2,True,0
 Homme,34,Hyderabad,Bachelor,5,7.91,3,Plus de 8 heures,Modérées,True,1,3,False,0
-Homme,38,Chennai,Bachelor,0,0.0,0,5-6 heures,Saines,False,2,3,False,0
 Homme,33,Chennai,Doctorat,4,8.58,3,5-6 heures,Mauvaises,False,6,2,False,0
 Homme,30,Vasai-Virar,Bachelor,3,8.59,3,Plus de 8 heures,Modérées,False,7,1,False,0
 Homme,25,Rajkot,Master,3,5.74,4,Moins de 5 heures,Modérées,True,10,5,False,1
@@ -4513,7 +4509,6 @@ Femme,21,Srinagar,Bachelor,3,8.98,2,7-8 heures,Modérées,True,6,4,True,1
 Femme,22,Lucknow,Bachelor,5,7.77,4,Moins de 5 heures,Saines,True,9,5,True,1
 Homme,19,Thane,Bachelor,5,8.09,3,5-6 heures,Modérées,True,2,1,True,1
 Homme,21,Nashik,Master,1,7.1,5,5-6 heures,Modérées,False,11,1,False,0
-Femme,22,Srinagar,Master,4,6.92,3,,Modérées,True,3,3,True,1
 Homme,33,Visakhapatnam,Bachelor,3,8.94,5,5-6 heures,Mauvaises,False,4,3,True,1
 Femme,26,Jaipur,Bachelor,2,6.38,4,5-6 heures,Saines,True,9,1,True,0
 Homme,25,Ahmedabad,Master,3,8.61,3,Moins de 5 heures,Saines,True,10,5,True,1
@@ -5503,7 +5498,6 @@ Homme,33,Pune,Master,3,8.91,5,Moins de 5 heures,Saines,True,12,3,False,1
 Femme,24,Vasai-Virar,Bachelor,5,9.21,1,7-8 heures,Modérées,False,0,5,True,1
 Homme,22,Nagpur,Bachelor,1,6.78,1,Moins de 5 heures,Modérées,True,12,2,False,0
 Femme,30,Thane,Bachelor,5,8.28,2,Moins de 5 heures,Modérées,True,7,1,False,1
-Femme,31,Delhi,Bachelor,2,7.27,5,,Saines,False,3,1,False,0
 Homme,23,Kanpur,Master,4,9.72,5,Moins de 5 heures,Modérées,True,12,3,True,1
 Femme,28,Jaipur,Bachelor,3,5.8,3,Moins de 5 heures,Saines,False,6,5,False,0
 Femme,28,Kolkata,Bachelor,5,8.69,2,7-8 heures,Mauvaises,True,10,5,True,1
@@ -5661,7 +5655,6 @@ Femme,25,Pune,Master,3,8.04,4,Moins de 5 heures,Mauvaises,False,10,3,False,0
 Homme,18,Agra,Bachelor,4,6.89,4,Plus de 8 heures,Saines,True,6,5,True,1
 Femme,21,Ahmedabad,Master,3,8.62,1,7-8 heures,Saines,True,5,5,False,1
 Homme,30,Kolkata,Bachelor,5,9.93,4,Moins de 5 heures,Mauvaises,False,10,5,False,0
-Homme,23,Meerut,Bachelor,3,9.98,5,Moins de 5 heures,,True,4,5,False,1
 Femme,22,Chennai,Master,5,8.9,5,Plus de 8 heures,Modérées,True,12,5,True,1
 Homme,18,Ahmedabad,Bachelor,4,7.8,4,7-8 heures,Mauvaises,True,10,4,False,1
 Femme,18,Vasai-Virar,Bachelor,4,8.52,2,Plus de 8 heures,Modérées,False,4,1,False,0
@@ -5761,7 +5754,6 @@ Femme,19,Kanpur,Bachelor,3,8.92,2,7-8 heures,Mauvaises,True,7,4,False,1
 Femme,21,Chennai,Master,3,8.7,4,Moins de 5 heures,Modérées,False,12,1,True,0
 Homme,25,Patna,Bachelor,4,8.74,1,7-8 heures,Mauvaises,True,12,4,True,1
 Femme,25,Kolkata,Bachelor,2,7.53,4,5-6 heures,Mauvaises,False,12,4,False,0
-Homme,23,Mumbai,Bachelor,5,8.52,4,,Modérées,True,12,4,True,1
 Femme,33,Bhopal,Bachelor,4,8.74,3,5-6 heures,Modérées,True,8,3,True,1
 Femme,31,Ludhiana,Bachelor,3,7.8,4,7-8 heures,Saines,False,5,2,True,0
 Femme,24,Vasai-Virar,Bachelor,4,8.4,3,5-6 heures,Mauvaises,True,3,1,True,1
@@ -6714,7 +6706,6 @@ Homme,18,Agra,Bachelor,4,7.94,3,Plus de 8 heures,Saines,True,10,4,False,1
 Homme,24,Vadodara,Bachelor,2,8.7,3,Moins de 5 heures,Mauvaises,False,6,2,False,0
 Femme,28,Thane,Master,2,7.94,5,Moins de 5 heures,Saines,True,2,1,False,0
 Homme,32,Nagpur,Bachelor,4,9.43,5,7-8 heures,Mauvaises,True,0,1,False,1
-Homme,20,Vasai-Virar,Bachelor,3,6.37,2,,Mauvaises,False,10,1,False,0
 Homme,27,Ludhiana,Bachelor,4,6.21,4,Moins de 5 heures,Mauvaises,True,6,5,False,1
 Homme,34,Thane,Bachelor,5,9.24,2,5-6 heures,Modérées,True,10,5,False,1
 Femme,24,Chennai,Master,2,8.04,4,Moins de 5 heures,Saines,False,1,1,True,0
@@ -6865,7 +6856,6 @@ Homme,29,Hyderabad,Bachelor,4,9.25,4,5-6 heures,Modérées,True,4,2,False,0
 Homme,19,Varanasi,Bachelor,3,6.21,1,Moins de 5 heures,Modérées,True,12,4,True,1
 Homme,19,Bhopal,Bachelor,5,8.52,2,7-8 heures,Modérées,True,10,3,True,1
 Homme,31,Bhopal,Bachelor,1,8.04,4,Moins de 5 heures,Mauvaises,True,5,5,True,1
-Homme,18,Vadodara,Bachelor,1,6.05,5,7-8 heures,,False,4,4,False,0
 Femme,25,Ludhiana,Bachelor,3,6.17,4,5-6 heures,Mauvaises,True,10,3,True,0
 Femme,18,Patna,Bachelor,2,6.7,3,5-6 heures,Mauvaises,False,8,2,True,0
 Homme,21,Meerut,Master,2,5.27,4,5-6 heures,Saines,True,11,2,False,1
@@ -7664,7 +7654,6 @@ Homme,28,Vasai-Virar,Bachelor,5,8.0,2,Moins de 5 heures,Mauvaises,True,1,5,True,
 Homme,29,Bangalore,Doctorat,4,8.14,3,5-6 heures,Modérées,True,0,2,False,1
 Femme,19,Ahmedabad,Bachelor,5,5.79,3,Moins de 5 heures,Mauvaises,True,10,5,False,1
 Homme,27,Bangalore,Master,5,5.58,3,Moins de 5 heures,Modérées,True,6,2,True,1
-Homme,31,Kalyan,Bachelor,3,8.21,4,,Modérées,False,2,3,False,0
 Femme,29,Kalyan,Bachelor,5,8.04,3,Moins de 5 heures,Mauvaises,True,8,4,False,1
 Homme,18,Chennai,Bachelor,5,9.44,1,7-8 heures,Saines,True,1,4,False,1
 Femme,28,Hyderabad,Master,3,9.44,4,7-8 heures,Mauvaises,True,5,3,True,1
@@ -7842,7 +7831,6 @@ Homme,29,Ghaziabad,Master,5,5.69,5,Plus de 8 heures,Mauvaises,False,6,1,True,0
 Homme,24,Ludhiana,Bachelor,5,9.31,2,Moins de 5 heures,Modérées,True,4,5,True,1
 Femme,20,Hyderabad,Bachelor,5,8.97,1,Plus de 8 heures,Mauvaises,False,6,4,True,1
 Femme,25,Patna,Bachelor,5,8.96,1,Plus de 8 heures,Modérées,True,12,3,False,1
-Femme,28,Visakhapatnam,Master,4,6.38,5,,Modérées,False,8,3,False,0
 Homme,26,Patna,Bachelor,3,8.04,2,Moins de 5 heures,Mauvaises,False,12,1,False,0
 Homme,21,Rajkot,Bachelor,2,5.41,1,7-8 heures,Saines,False,11,1,False,0
 Homme,27,Rajkot,Bachelor,3,5.64,4,Plus de 8 heures,Modérées,False,1,1,False,0
@@ -8229,7 +8217,6 @@ Femme,33,Visakhapatnam,Master,2,9.93,4,Moins de 5 heures,Modérées,False,1,3,Fa
 Femme,24,Ghaziabad,Bachelor,5,9.21,3,Moins de 5 heures,Saines,True,3,1,True,1
 Femme,29,Kanpur,Bachelor,1,5.89,3,Moins de 5 heures,Modérées,False,0,2,True,0
 Homme,28,Kalyan,Master,1,7.5,2,5-6 heures,Saines,True,0,2,False,0
-Femme,21,Jaipur,Bachelor,2,7.28,4,Moins de 5 heures,,True,0,3,True,0
 Homme,27,Srinagar,Bachelor,5,8.21,5,Moins de 5 heures,Mauvaises,True,8,5,True,1
 Femme,29,Jaipur,Bachelor,3,5.32,4,7-8 heures,Saines,False,4,2,True,0
 Homme,23,Nagpur,Bachelor,4,9.63,5,Plus de 8 heures,Modérées,True,11,5,True,1
@@ -8422,7 +8409,6 @@ Femme,20,Patna,Bachelor,5,7.48,4,5-6 heures,Modérées,True,11,1,True,1
 Femme,33,Bangalore,Master,4,9.92,1,7-8 heures,Mauvaises,True,10,3,True,1
 Femme,18,Surat,Bachelor,5,7.92,2,Plus de 8 heures,Modérées,True,9,5,False,1
 Homme,30,Patna,Bachelor,3,5.11,4,7-8 heures,Modérées,False,1,5,False,0
-Femme,32,Ahmedabad,Bachelor,4,9.54,4,5-6 heures,,True,4,2,False,1
 Homme,24,Meerut,Master,2,7.77,4,5-6 heures,Mauvaises,False,1,5,False,0
 Femme,28,Agra,Bachelor,5,9.84,2,Plus de 8 heures,Modérées,True,7,5,True,1
 Homme,19,Hyderabad,Bachelor,3,8.11,1,7-8 heures,Modérées,True,7,4,False,1
@@ -10368,7 +10354,6 @@ Femme,28,Srinagar,Master,4,7.75,4,7-8 heures,Mauvaises,True,6,5,False,1
 Homme,26,Chennai,Bachelor,5,6.16,4,7-8 heures,Saines,False,8,4,False,1
 Homme,34,Rajkot,Bachelor,1,9.04,1,5-6 heures,Saines,True,10,1,True,1
 Homme,25,Lucknow,Bachelor,3,6.75,1,5-6 heures,Modérées,True,10,3,False,1
-Homme,28,Vadodara,Bachelor,3,0.0,4,Moins de 5 heures,Saines,False,12,2,False,0
 Homme,28,Thane,Master,3,9.04,3,7-8 heures,Modérées,True,5,1,True,0
 Femme,24,Chennai,Master,4,9.72,2,7-8 heures,Saines,False,10,3,True,0
 Femme,22,Nagpur,Master,2,7.53,5,5-6 heures,Saines,False,5,2,True,0
@@ -11450,7 +11435,6 @@ Homme,25,Kanpur,Bachelor,3,9.74,1,Moins de 5 heures,Mauvaises,True,11,3,True,1
 Homme,20,Ludhiana,Bachelor,2,5.27,3,5-6 heures,Mauvaises,True,11,5,True,1
 Homme,22,Jaipur,Master,1,7.88,5,5-6 heures,Saines,False,2,4,False,0
 Homme,31,Patna,Master,2,9.36,4,7-8 heures,Mauvaises,True,10,5,False,1
-Femme,32,Vadodara,Bachelor,5,0.0,0,Moins de 5 heures,Mauvaises,True,11,5,False,1
 Femme,33,Faridabad,Master,5,6.38,2,Moins de 5 heures,Mauvaises,True,4,5,True,1
 Femme,20,Hyderabad,Bachelor,5,8.23,2,Moins de 5 heures,Saines,True,10,3,False,1
 Homme,24,Ludhiana,Bachelor,1,9.97,2,7-8 heures,Modérées,False,11,4,False,0
@@ -11707,7 +11691,6 @@ Homme,34,Hyderabad,Master,2,8.04,4,5-6 heures,Modérées,False,12,2,False,0
 Homme,31,Thane,Bachelor,3,5.08,4,5-6 heures,Mauvaises,True,8,5,False,1
 Homme,19,Nashik,Bachelor,1,9.88,4,Moins de 5 heures,Saines,False,9,5,True,0
 Homme,26,Kalyan,Bachelor,3,9.74,4,5-6 heures,Mauvaises,True,8,4,False,1
-Homme,34,Agra,Bachelor,5,9.04,1,Plus de 8 heures,,True,4,5,True,1
 Homme,29,Visakhapatnam,Master,5,9.67,2,7-8 heures,Saines,False,0,2,False,1
 Homme,34,Vasai-Virar,Bachelor,1,7.83,5,7-8 heures,Mauvaises,True,8,5,False,1
 Homme,28,Lucknow,Bachelor,3,8.11,4,Moins de 5 heures,Saines,False,1,2,False,0
@@ -12719,7 +12702,6 @@ Femme,22,Ahmedabad,Bachelor,1,7.09,2,Plus de 8 heures,Modérées,False,12,1,True
 Femme,31,Chennai,Master,5,5.52,5,5-6 heures,Saines,True,3,3,False,1
 Femme,26,Kolkata,Bachelor,2,7.64,5,Plus de 8 heures,Mauvaises,False,11,2,True,0
 Homme,19,Agra,Bachelor,3,6.16,3,Plus de 8 heures,Saines,True,6,4,False,1
-Femme,23,Bangalore,Master,2,6.91,5,5-6 heures,,False,6,3,False,1
 Homme,26,Delhi,Bachelor,3,7.46,2,5-6 heures,Mauvaises,True,0,1,True,1
 Homme,19,Thane,Bachelor,5,9.67,1,7-8 heures,Mauvaises,True,8,3,True,1
 Femme,22,Pune,Master,1,6.16,4,7-8 heures,Modérées,True,10,2,False,0
@@ -12888,7 +12870,6 @@ Homme,28,Meerut,Bachelor,1,5.41,2,7-8 heures,Saines,True,3,4,True,0
 Homme,33,Kanpur,Bachelor,4,7.25,4,Plus de 8 heures,Modérées,False,11,4,False,0
 Femme,23,Nagpur,Bachelor,5,7.1,3,Moins de 5 heures,Saines,True,11,2,False,1
 Femme,19,Vadodara,Bachelor,3,5.87,5,5-6 heures,Mauvaises,False,1,2,True,0
-Homme,28,Nagpur,Bachelor,2,7.85,4,,Mauvaises,True,10,4,False,1
 Homme,29,Lucknow,Master,3,7.88,2,5-6 heures,Mauvaises,True,3,5,True,1
 Femme,24,Lucknow,Bachelor,1,5.57,3,7-8 heures,Saines,True,9,5,False,0
 Homme,25,Srinagar,Bachelor,5,5.77,1,Moins de 5 heures,Mauvaises,False,5,5,True,1
@@ -13708,7 +13689,6 @@ Femme,28,Srinagar,Master,1,8.59,5,Plus de 8 heures,Mauvaises,False,9,4,False,0
 Femme,30,Jaipur,Master,3,9.1,3,7-8 heures,Mauvaises,True,1,2,False,1
 Femme,22,Kolkata,Bachelor,4,7.39,3,5-6 heures,Modérées,True,3,2,True,0
 Homme,29,Srinagar,Master,1,8.24,2,Moins de 5 heures,Modérées,False,10,1,False,0
-Homme,34,Ahmedabad,Master,5,8.24,5,5-6 heures,,True,11,1,True,1
 Femme,23,Surat,Bachelor,4,5.25,4,Plus de 8 heures,Saines,False,3,2,True,0
 Femme,20,Indore,Bachelor,3,8.54,4,5-6 heures,Modérées,True,10,4,False,1
 Homme,31,Pune,Bachelor,4,9.6,4,Moins de 5 heures,Modérées,True,2,1,False,1
@@ -13858,7 +13838,6 @@ Femme,22,Visakhapatnam,Bachelor,1,7.45,4,5-6 heures,Modérées,True,2,1,True,0
 Femme,34,Pune,Master,1,6.75,4,7-8 heures,Mauvaises,False,10,2,False,0
 Homme,27,Lucknow,Master,5,9.21,3,5-6 heures,Mauvaises,True,12,1,True,1
 Homme,33,Varanasi,Master,1,8.04,4,7-8 heures,Modérées,True,10,3,True,0
-Femme,20,Ahmedabad,Bachelor,0,0.0,0,Moins de 5 heures,Modérées,True,12,3,True,1
 Homme,34,Agra,Master,2,5.32,1,7-8 heures,Modérées,True,0,5,True,0
 Femme,23,Kolkata,Master,3,6.37,5,Moins de 5 heures,Mauvaises,True,9,4,True,1
 Homme,21,Rajkot,Bachelor,4,6.47,1,5-6 heures,Mauvaises,True,11,3,True,1
@@ -14329,7 +14308,6 @@ Femme,20,Ghaziabad,Bachelor,5,8.09,5,Moins de 5 heures,Saines,True,12,2,False,1
 Femme,28,Vadodara,Bachelor,5,8.39,5,Plus de 8 heures,Modérées,True,8,3,False,1
 Homme,30,Hyderabad,Master,4,9.97,2,Moins de 5 heures,Mauvaises,True,11,4,True,1
 Femme,20,Patna,Bachelor,1,8.58,5,7-8 heures,Modérées,False,7,3,False,0
-Femme,33,Ahmedabad,Doctorat,4,7.87,4,,Modérées,False,10,2,True,0
 Femme,19,Indore,Bachelor,3,7.25,4,Moins de 5 heures,Modérées,False,2,1,False,0
 Femme,21,Kalyan,Bachelor,5,8.58,2,Moins de 5 heures,Saines,True,11,5,False,1
 Femme,20,Kanpur,Bachelor,4,7.38,4,7-8 heures,Saines,True,6,5,True,1
@@ -14451,7 +14429,6 @@ Femme,21,Kalyan,Bachelor,2,6.69,3,Plus de 8 heures,Mauvaises,True,12,2,True,1
 Homme,18,Hyderabad,Bachelor,2,8.91,4,5-6 heures,Modérées,False,12,2,False,0
 Homme,32,Jaipur,Bachelor,1,9.96,3,7-8 heures,Mauvaises,True,10,4,False,1
 Femme,21,Kalyan,Bachelor,4,5.74,3,Moins de 5 heures,Saines,True,11,5,False,1
-Homme,26,Indore,Bachelor,1,7.49,2,Moins de 5 heures,,True,6,4,False,0
 Femme,18,Vadodara,Bachelor,5,7.94,3,Moins de 5 heures,Mauvaises,True,10,3,True,1
 Homme,22,Mumbai,Master,5,8.74,2,5-6 heures,Mauvaises,True,9,3,False,1
 Femme,25,Ahmedabad,Bachelor,4,7.09,2,Moins de 5 heures,Saines,True,11,1,True,1
@@ -14801,7 +14778,6 @@ Homme,28,Jaipur,Master,2,5.37,5,5-6 heures,Modérées,False,4,3,False,0
 Femme,21,Visakhapatnam,Master,4,8.95,2,Plus de 8 heures,Mauvaises,True,12,5,False,1
 Homme,24,Kalyan,Bachelor,2,7.15,4,Plus de 8 heures,Modérées,True,4,4,False,0
 Homme,18,Lucknow,Bachelor,3,8.95,4,Moins de 5 heures,Modérées,False,6,4,False,0
-Homme,21,Lucknow,Bachelor,0,0.0,0,7-8 heures,Modérées,True,3,3,True,0
 Homme,29,Vasai-Virar,Master,3,5.7,4,7-8 heures,Mauvaises,True,4,4,True,1
 Homme,28,Patna,Bachelor,4,8.14,3,Moins de 5 heures,Modérées,True,10,4,False,0
 Homme,32,Varanasi,Bachelor,5,9.84,1,Moins de 5 heures,Mauvaises,True,8,4,False,1
@@ -14934,7 +14910,6 @@ Homme,33,Kanpur,Master,1,7.47,1,Plus de 8 heures,Mauvaises,True,2,4,True,0
 Femme,32,Delhi,Bachelor,3,6.38,3,7-8 heures,Saines,True,5,1,True,0
 Femme,19,Lucknow,Bachelor,5,9.24,2,5-6 heures,Modérées,True,5,3,True,1
 Femme,28,Varanasi,Bachelor,4,5.59,2,Plus de 8 heures,Modérées,True,5,2,True,0
-Homme,26,Srinagar,Doctorat,2,7.11,4,,Mauvaises,True,9,2,False,0
 Homme,29,Ludhiana,Master,3,6.27,4,7-8 heures,Modérées,True,12,5,True,1
 Homme,18,Pune,Bachelor,5,5.85,2,7-8 heures,Modérées,False,6,2,False,1
 Homme,23,Patna,Bachelor,3,7.09,4,Plus de 8 heures,Saines,False,9,3,False,0
@@ -15033,7 +15008,6 @@ Femme,34,Lucknow,Bachelor,2,9.88,4,5-6 heures,Saines,True,1,4,False,0
 Homme,29,Agra,Bachelor,4,8.09,4,Plus de 8 heures,Saines,True,6,1,False,1
 Homme,24,Lucknow,Bachelor,5,9.39,5,Moins de 5 heures,Mauvaises,True,8,5,True,1
 Homme,26,Hyderabad,Bachelor,4,9.21,1,5-6 heures,Mauvaises,True,11,4,False,1
-Femme,27,Lucknow,Bachelor,5,5.82,3,Moins de 5 heures,,True,7,1,False,1
 Femme,30,Mumbai,Bachelor,2,9.93,3,5-6 heures,Modérées,True,2,3,False,1
 Femme,32,Bangalore,Bachelor,4,8.5,4,5-6 heures,Modérées,True,9,4,True,1
 Homme,33,Thane,Bachelor,1,5.85,5,Plus de 8 heures,Mauvaises,False,7,2,True,0
@@ -15049,7 +15023,6 @@ Homme,19,Delhi,Bachelor,4,9.24,4,Moins de 5 heures,Mauvaises,True,8,2,False,1
 Homme,21,Thane,Master,3,8.13,1,7-8 heures,Modérées,True,12,5,False,1
 Homme,25,Kalyan,Master,4,7.88,2,Plus de 8 heures,Mauvaises,True,8,4,True,1
 Femme,30,Kalyan,Bachelor,3,9.93,5,5-6 heures,Modérées,True,10,1,True,0
-Homme,25,Kanpur,Bachelor,3,9.84,1,,Mauvaises,True,4,1,True,1
 Homme,26,Patna,Bachelor,4,6.1,2,Moins de 5 heures,Modérées,False,3,1,True,1
 Femme,29,Ahmedabad,Master,2,9.44,1,7-8 heures,Modérées,False,11,1,False,0
 Homme,33,Bangalore,Bachelor,2,8.63,1,7-8 heures,Mauvaises,False,12,3,True,1
@@ -15902,7 +15875,6 @@ Femme,23,Ghaziabad,Bachelor,5,7.72,2,7-8 heures,Saines,True,10,2,True,1
 Femme,28,Hyderabad,Bachelor,5,5.37,2,5-6 heures,Modérées,True,10,1,True,1
 Homme,21,Hyderabad,Master,4,9.21,1,5-6 heures,Modérées,True,2,5,True,1
 Homme,31,Nagpur,Doctorat,4,8.93,4,7-8 heures,Mauvaises,False,6,3,True,0
-Homme,23,Nagpur,Bachelor,2,9.6,1,,Mauvaises,True,1,1,True,0
 Femme,29,Meerut,Bachelor,3,6.27,4,Plus de 8 heures,Saines,True,10,2,False,1
 Femme,24,Srinagar,Bachelor,1,6.04,3,5-6 heures,Modérées,True,1,2,True,0
 Femme,25,Srinagar,Master,3,9.34,4,Moins de 5 heures,Saines,True,1,3,False,0
@@ -18159,7 +18131,6 @@ Homme,25,Lucknow,Master,5,5.56,2,7-8 heures,Saines,False,10,3,True,0
 Femme,26,Jaipur,Bachelor,4,5.45,3,Plus de 8 heures,Saines,True,6,2,False,1
 Femme,24,Pune,Bachelor,4,5.82,4,5-6 heures,Saines,True,11,2,False,1
 Homme,20,Rajkot,Bachelor,3,8.03,4,Moins de 5 heures,Mauvaises,True,12,4,True,1
-Femme,31,Faridabad,Master,2,9.24,1,,Modérées,True,12,5,False,1
 Femme,19,Ludhiana,Bachelor,4,6.99,3,Moins de 5 heures,Mauvaises,True,12,4,False,1
 Homme,33,Srinagar,Bachelor,1,6.78,3,5-6 heures,Mauvaises,False,0,1,True,0
 Homme,24,Bangalore,Bachelor,3,9.56,1,Moins de 5 heures,Saines,True,0,1,False,0
@@ -20247,7 +20218,6 @@ Homme,33,Kalyan,Master,3,7.39,1,Plus de 8 heures,Modérées,True,8,5,False,0
 Homme,26,Agra,Master,3,5.65,1,Moins de 5 heures,Mauvaises,False,3,4,False,1
 Femme,28,Meerut,Bachelor,1,9.21,2,Moins de 5 heures,Mauvaises,True,11,1,False,1
 Femme,32,Indore,Bachelor,1,5.74,2,7-8 heures,Modérées,False,5,1,True,0
-Homme,32,Hyderabad,Master,4,9.39,2,,Saines,False,4,3,True,1
 Homme,31,Surat,Master,3,6.42,1,Plus de 8 heures,Saines,True,4,2,True,1
 Homme,29,Faridabad,Doctorat,5,8.81,5,7-8 heures,Mauvaises,True,9,2,False,1
 Homme,26,Delhi,Bachelor,3,6.39,3,5-6 heures,Mauvaises,False,12,2,True,1
@@ -20842,7 +20812,6 @@ Femme,33,Surat,Bachelor,2,9.04,3,Moins de 5 heures,Modérées,False,6,1,True,0
 Femme,30,Thane,Master,3,9.66,1,Plus de 8 heures,Mauvaises,True,3,5,True,0
 Femme,34,Srinagar,Master,2,5.84,4,Moins de 5 heures,Saines,True,8,2,False,0
 Homme,34,Surat,Bachelor,1,7.53,5,5-6 heures,Saines,False,8,4,False,0
-Homme,18,Ahmedabad,Bachelor,0,0.0,0,Moins de 5 heures,Modérées,True,9,5,False,1
 Femme,20,Chennai,Bachelor,4,8.59,4,7-8 heures,Modérées,True,10,5,False,1
 Homme,19,Kolkata,Bachelor,3,9.71,3,Moins de 5 heures,Mauvaises,True,11,5,False,1
 Femme,23,Vasai-Virar,Bachelor,5,9.25,5,5-6 heures,Modérées,False,10,2,True,1
@@ -21732,7 +21701,6 @@ Homme,19,Nagpur,Bachelor,4,9.44,2,Moins de 5 heures,Mauvaises,True,3,2,True,1
 Homme,21,Bhopal,Bachelor,5,7.53,4,Moins de 5 heures,Mauvaises,True,11,5,True,1
 Homme,20,Kalyan,Bachelor,5,8.38,1,Moins de 5 heures,Saines,False,12,1,False,1
 Femme,22,Kanpur,Master,3,6.25,2,Moins de 5 heures,Modérées,True,8,5,False,1
-Homme,34,Pune,Master,1,0.0,5,Moins de 5 heures,Mauvaises,True,10,3,True,0
 Femme,22,Mumbai,Bachelor,2,8.04,1,7-8 heures,Mauvaises,False,1,5,True,0
 Homme,28,Ghaziabad,Bachelor,2,7.02,4,Moins de 5 heures,Modérées,True,10,5,True,1
 Femme,21,Bangalore,Bachelor,5,8.91,3,5-6 heures,Saines,True,9,1,True,1
@@ -22440,7 +22408,6 @@ Femme,25,Agra,Doctorat,3,7.83,1,Moins de 5 heures,Modérées,False,10,3,False,0
 Femme,23,Vasai-Virar,Master,5,9.63,4,5-6 heures,Modérées,True,6,4,True,1
 Femme,20,Kalyan,Bachelor,3,8.52,1,Plus de 8 heures,Modérées,True,10,2,False,0
 Femme,25,Surat,Bachelor,4,7.17,4,7-8 heures,Saines,True,10,1,True,1
-Homme,30,Ghaziabad,Master,5,5.99,2,7-8 heures,,True,7,4,False,1
 Homme,28,Indore,Bachelor,1,7.24,5,Moins de 5 heures,Mauvaises,True,10,3,True,1
 Femme,33,Lucknow,Bachelor,3,5.86,1,Plus de 8 heures,Mauvaises,True,6,2,True,0
 Femme,20,Srinagar,Bachelor,5,7.1,2,Plus de 8 heures,Saines,True,0,4,True,1
@@ -22827,7 +22794,6 @@ Femme,27,Thane,Bachelor,2,6.89,2,7-8 heures,Saines,True,3,2,True,0
 Homme,28,Pune,Master,5,9.33,2,7-8 heures,Mauvaises,True,12,5,False,1
 Femme,31,Faridabad,Master,3,7.6,5,5-6 heures,Modérées,True,2,4,False,0
 Femme,31,Delhi,Bachelor,3,7.17,4,7-8 heures,Mauvaises,False,4,4,True,1
-Homme,34,Meerut,Master,3,5.66,4,,Modérées,False,12,1,False,0
 Femme,26,Kolkata,Bachelor,5,5.59,2,Moins de 5 heures,Modérées,True,12,5,True,1
 Homme,25,Rajkot,Master,4,6.17,3,Moins de 5 heures,Modérées,True,12,1,True,1
 Femme,24,Kanpur,Bachelor,5,6.99,3,Moins de 5 heures,Modérées,True,12,5,True,1
@@ -23428,7 +23394,6 @@ Femme,30,Lucknow,Master,3,8.09,3,5-6 heures,Modérées,False,3,3,False,0
 Femme,25,Srinagar,Bachelor,1,9.86,3,Plus de 8 heures,Saines,False,12,3,True,0
 Homme,32,Kanpur,Bachelor,3,7.02,4,5-6 heures,Saines,True,1,2,False,0
 Femme,29,Faridabad,Bachelor,2,9.88,4,5-6 heures,Modérées,False,4,2,False,0
-Homme,24,Kolkata,Master,1,8.47,2,7-8 heures,,True,0,5,False,1
 Femme,18,Kanpur,Bachelor,1,5.51,3,Plus de 8 heures,Modérées,False,6,1,True,0
 Homme,24,Agra,Bachelor,3,5.11,2,Moins de 5 heures,Mauvaises,True,7,4,False,1
 Femme,31,Vadodara,Bachelor,3,8.23,4,Moins de 5 heures,Modérées,True,0,4,True,0
@@ -25117,7 +25082,6 @@ Homme,31,Kanpur,Master,2,5.64,5,7-8 heures,Modérées,False,11,4,True,0
 Homme,19,Ahmedabad,Bachelor,4,6.75,1,7-8 heures,Mauvaises,True,8,3,True,1
 Femme,48,Rajkot,Bachelor,3,5.32,4,7-8 heures,Mauvaises,False,1,4,True,1
 Homme,24,Kolkata,Bachelor,4,9.78,2,5-6 heures,Mauvaises,True,8,1,True,1
-Femme,30,Delhi,Bachelor,4,9.96,1,,Mauvaises,True,1,2,True,1
 Homme,26,Kolkata,Bachelor,1,8.28,3,Plus de 8 heures,Mauvaises,True,9,4,True,1
 Femme,31,Nagpur,Master,5,7.7,1,Moins de 5 heures,Mauvaises,True,10,4,True,1
 Homme,26,Hyderabad,Bachelor,2,9.42,5,7-8 heures,Saines,False,0,1,True,0
@@ -25656,7 +25620,6 @@ Femme,27,Chennai,Bachelor,4,7.88,1,Plus de 8 heures,Modérées,True,10,1,False,0
 Homme,27,Delhi,Bachelor,4,6.27,4,Moins de 5 heures,Mauvaises,False,0,5,True,0
 Homme,26,Srinagar,Bachelor,5,7.22,2,Moins de 5 heures,Modérées,True,1,4,True,1
 Homme,31,Kanpur,Master,4,7.21,3,5-6 heures,Mauvaises,False,11,2,True,0
-Homme,18,Rajkot,Bachelor,0,0.0,0,7-8 heures,Modérées,True,9,4,False,1
 Femme,31,Lucknow,Bachelor,2,5.85,3,Moins de 5 heures,Modérées,False,4,3,True,0
 Homme,30,Thane,Bachelor,3,6.78,5,7-8 heures,Modérées,True,10,2,False,0
 Homme,24,Kalyan,Bachelor,3,7.52,1,5-6 heures,Mauvaises,True,10,4,False,1
@@ -25970,7 +25933,6 @@ Femme,24,Kanpur,Master,3,6.76,4,Moins de 5 heures,Mauvaises,False,3,4,True,1
 Femme,18,Hyderabad,Bachelor,3,7.53,4,7-8 heures,Mauvaises,True,12,4,False,1
 Femme,31,Hyderabad,Master,2,8.29,4,5-6 heures,Modérées,True,10,2,False,1
 Homme,26,Vadodara,Bachelor,3,9.67,4,7-8 heures,Saines,False,0,2,False,0
-Homme,25,Vasai-Virar,Bachelor,3,5.6,3,Moins de 5 heures,,True,2,1,False,0
 Femme,28,Srinagar,Bachelor,2,7.15,5,7-8 heures,Modérées,False,11,3,True,0
 Homme,18,Ahmedabad,Bachelor,2,6.21,4,Moins de 5 heures,Modérées,True,12,4,False,1
 Femme,25,Lucknow,Bachelor,4,8.44,1,Plus de 8 heures,Saines,True,4,5,True,1
@@ -26626,7 +26588,6 @@ Femme,25,Vasai-Virar,Bachelor,2,7.25,1,7-8 heures,Modérées,False,1,2,True,0
 Homme,28,Jaipur,Master,1,9.93,4,7-8 heures,Modérées,False,4,2,True,0
 Homme,24,Ghaziabad,Bachelor,1,9.88,4,Plus de 8 heures,Modérées,False,7,1,True,0
 Homme,30,Mumbai,Bachelor,3,7.1,2,Moins de 5 heures,Modérées,True,2,2,False,0
-Femme,24,Meerut,Bachelor,0,0.0,0,Plus de 8 heures,Mauvaises,False,0,5,False,0
 Femme,27,Rajkot,Master,3,8.23,4,Moins de 5 heures,Modérées,False,12,2,True,0
 Homme,32,Srinagar,Master,1,7.27,4,5-6 heures,Saines,False,12,1,False,0
 Homme,23,Kolkata,Master,4,5.74,5,7-8 heures,Saines,True,8,5,True,1
