@@ -36,6 +36,7 @@ CampusCARE/
 └── README.md               # Description du projet
 ```
 ## Accès aux fichiers
+- **[Méthodologie et plan d'exécution](./docs/methodologie.md)**
 
 ## Licence
 [Votre choix de licence]
