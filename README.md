@@ -1,13 +1,18 @@
 # CampusCARE
 
 ## Contexte
-CampusCARE est une association dédiée à la santé mentale des étudiants. Ce projet se concentre sur les données recueillies en Inde pour identifier les facteurs associés à la dépression et concevoir des stratégies d'intervention.
+CampusCARE est une association qui a pour but de préserver la santé mentale des étudiants dans le monde.
+
+La direction de la filiale en Inde, après avoir effectué un ensemble d’entretiens avec des cellules psychologiques dans les campus, a observé au cours des derniers mois, une détérioration progressive de la santé mentale de ses étudiants.
+
+Afin de mieux comprendre les profils au sein des différents campus et suivre leur état mental, elle a effectué une enquête auprès des étudiants pour collecter les détails démographiques, facteurs psychologiques et style de vie.
 
 ## Objectifs
-- Identifier les facteurs contribuant à la dépression.
+- Identifier les facteurs contribuant à la dépression chez les étudiants.
+- Concevoir des stratégies d’intervention précoces.
+- Développer un tableau de bord interactif pour le suivi de KPIs (à définir).
 - Prédire le niveau de dépression des étudiants.
-- Développer un tableau de bord interactif pour le suivi.
-- Proposer une interface utilisateur simple pour prédire la dépression.
+- Proposer une interface utilisateur simple pour prédire l'état de santé mentale d'un étudiant.
 
 ## Données
 Le dataset contient des informations démographiques, psychologiques, et liées au style de vie des étudiants.
@@ -18,7 +23,7 @@ Le dataset contient des informations démographiques, psychologiques, et liées 
 3. Modélisation pour la prédiction.
 4. Développement d'un tableau de bord interactif.
 
-## Structure
+## Structure du dépôt
 ```
 CampusCARE/
 ├── donnees/                # Contient les données brutes et transformées
@@ -30,15 +35,7 @@ CampusCARE/
 ├── README.md               # Description du projet
 └── requirements.txt        # Dépendances Python du projet
 ```
-
-## Installation
-1. Cloner ce dépôt.
-2. Installer les dépendances avec : `pip install -r requirements.txt`
-
-## Contribution
-1. Forkez le dépôt.
-2. Créez une branche pour votre contribution : `git checkout -b feature-name`
-3. Soumettez une Pull Request.
+## Accès aux fichiers
 
 ## Licence
 [Votre choix de licence]
