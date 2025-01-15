@@ -32,8 +32,8 @@ CampusCARE/
 ├── scripts/                # Scripts Python pour le traitement, l'analyse et la modélisation
 ├── notebooks/              # Notebooks pour l'exploration et la visualisation des données
 ├── resultats/              # Graphiques, visualisations et rapport final
-├── README.md               # Description du projet
-└── requirements.txt        # Dépendances Python du projet
+├── docs/                   # Documentation, Méthodologie
+└── README.md               # Description du projet
 ```
 ## Accès aux fichiers
 
