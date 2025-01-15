@@ -25,7 +25,7 @@ Afin de mieux comprendre les profils au sein des différents campus et suivre le
 CampusCARE/
 ├── donnees/                # Contient les données brutes et transformées
 │   ├── brutes/             # Données brutes (non modifiées)
-│   ├── traitees/           # Données nettoyées ou modifiées
+│   ├── nettoyees/           # Données nettoyées ou modifiées
 ├── scripts/                # Scripts Python pour le traitement, l'analyse et la modélisation
 ├── notebooks/              # Notebooks pour l'exploration et la visualisation des données
 ├── resultats/              # Graphiques, visualisations et rapport final
