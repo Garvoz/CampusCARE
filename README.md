@@ -75,5 +75,7 @@ CampusCARE/
 └── README.md               # Description du projet
 ```
 
+---
+
 ## 📜 Licence
 - [**MIT**](./LICENSE)
