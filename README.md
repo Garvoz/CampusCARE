@@ -21,18 +21,12 @@ Le dataset contient des informations démographiques, psychologiques, et liées 
 ## Structure
 ```
 CampusCARE/
-├── data/                   # Contient les données brutes et traitées
-│   ├── raw/                # Données brutes (non modifiées)
-│   ├── processed/          # Données nettoyées ou modifiées
-├── notebooks/              # Jupyter notebooks pour l'analyse exploratoire et les tests
-├── src/                    # Scripts Python pour le traitement et la modélisation
-│   ├── preprocessing/      # Scripts pour le nettoyage et la transformation des données
-│   ├── modeling/           # Scripts pour les modèles prédictifs
-│   ├── dashboard/          # Scripts pour la création du dashboard
-├── tests/                  # Scripts pour les tests unitaires et de validation
-├── reports/                # Résultats et visualisations
-│   ├── figures/            # Graphiques générés
-│   ├── dashboard/          # Dashboard final ou ses captures
+├── donnees/                # Contient les données brutes et transformées
+│   ├── brutes/             # Données brutes (non modifiées)
+│   ├── traitees/           # Données nettoyées ou modifiées
+├── scripts/                # Scripts Python pour le traitement, l'analyse et la modélisation
+├── notebooks/              # Notebooks pour l'exploration et la visualisation des données
+├── resultats/              # Graphiques, visualisations et rapport final
 ├── README.md               # Description du projet
 └── requirements.txt        # Dépendances Python du projet
 ```
