@@ -14,9 +14,6 @@ Afin de mieux comprendre les profils au sein des différents campus et suivre le
 - Prédire le niveau de dépression des étudiants.
 - Proposer une interface utilisateur simple pour prédire l'état de santé mentale d'un étudiant.
 
-## Données
-Le dataset contient des informations démographiques, psychologiques, et liées au style de vie des étudiants.
-
 ## Méthodologie
 1. Analyse exploratoire des données.
 2. Nettoyage et transformation des données.
@@ -36,7 +33,8 @@ CampusCARE/
 └── README.md               # Description du projet
 ```
 ## Accès aux fichiers
-- **[Méthodologie et plan d'exécution](./docs/methodologie.md)**
+- **[Méthodologie et plan d'exécution](./docs/methodologie.md)** : Etapes et Résolution du Projet.
+- **[Dataset](./donnees/brute/dataset.csv)** : Contient des informations démographiques, psychologiques, et liées au style de vie des étudiants en Inde.
 
 ## Licence
 [Votre choix de licence]
