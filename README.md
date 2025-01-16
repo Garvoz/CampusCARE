@@ -42,6 +42,8 @@ L'association fait appel à une équipe de Data Analysts afin d’***identifier 
 
 ## 📊 Description du DataSet
 
+- **[Analyse Exploratoire (EDA)](./docs/eda.md)** 
+
 - ***27901*** réponses à l'enquête anonyme.
 - **Descriptif des colonnes** ***(éléments de réponse de chaque étudiant.e)***
 
@@ -58,8 +60,6 @@ L'association fait appel à une équipe de Data Analysts afin d’***identifier 
   - **Dépression** : 0 = pas de signe, 1 = présence de signes  
   - **CGPA** : Moyenne académique cumulée (échelle de 0 à 10)
   - **Niveau d'Etude** : Diplôme visé
-
-- **[Analyse Exploratoire (EDA)](./docs/eda.md)** 
 
 
 ## 📂 Structure du dépôt
