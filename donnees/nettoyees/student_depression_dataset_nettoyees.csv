@@ -1,4 +1,4 @@
-Genre,Age,Ville,Niveau étude,Pression Académique,CGPA,Satisfation Académique,Temps de sommeil,Habitudes Alimentaires,Pensées Suicidaires,Temps études/jour(heures),Stress Financier,Antécédents familiaux mentaux,Dépression
+Genre,Age,Ville,Niveau étude,Pression Académique,CGPA,Satisfaction Académique,Temps de sommeil,Habitudes Alimentaires,Pensées Suicidaires,Temps études/jour(heures),Stress Financier,Antécédents familiaux mentaux,Dépression
 Homme,33,Visakhapatnam,Bachelor,5,8.97,2,5-6 heures,Saines,True,3,1,False,1
 Femme,24,Bangalore,Bachelor,2,5.9,5,5-6 heures,Modérées,False,3,2,True,0
 Homme,31,Srinagar,Bachelor,3,7.03,5,Moins de 5 heures,Saines,False,9,1,True,0
