@@ -59,6 +59,8 @@ L'association fait appel à une équipe de Data Analysts afin d’***identifier 
   - **CGPA** : Moyenne académique cumulée (échelle de 0 à 10)
   - **Niveau d'Etude** : Diplôme visé
 
+- **[Analyse Exploratoire (EDA)](./docs/eda.md)** 
+
 
 ## 📂 Structure du dépôt
 ```

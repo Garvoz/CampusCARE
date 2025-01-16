@@ -31,7 +31,7 @@ Ce document présente les étapes clés pour accomplir les livrables du projet C
 
 ---
 
-## 6. Développement de l'interface utilisateur
+## 5. Développement de l'interface utilisateur
 1. Prototypage d'une interface utilisateur simple permettant de saisir les données d'un étudiant.
 2. Intégration du modèle de prédiction pour fournir des résultats en temps réel.
 
