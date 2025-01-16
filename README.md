@@ -23,15 +23,6 @@ L'association fait appel à une équipe de Data Analysts afin d’***identifier 
 - Prédire le niveau de dépression des étudiants.
 - Proposer une interface utilisateur simple pour prédire l'état de santé mentale d'un étudiant.
 
-## 🛠️ Méthodologie
-1. Nettoyage et préparation des données.
-2. Analyse exploratoire des données.
-3. Modélisation pour la prédiction.
-4. Développement d'un tableau de bord interactif.
-5. Prototypage d'une interface utilisateur.
-
-- **[Détails Méthodologie](./docs/methodologie.md)** 
-
 ## 🚀 Livrables
 
 1. Définitions de KPI
@@ -62,6 +53,14 @@ L'association fait appel à une équipe de Data Analysts afin d’***identifier 
   - **CGPA** : Moyenne académique cumulée (échelle de 0 à 10)
   - **Niveau d'Etude** : Diplôme visé
 
+## 🛠️ Méthodologie
+1. Nettoyage et préparation des données.
+2. Analyse exploratoire des données.
+3. Modélisation pour la prédiction.
+4. Développement d'un tableau de bord interactif.
+5. Prototypage d'une interface utilisateur.
+
+- **[Détails Méthodologie](./docs/methodologie.md)** 
 
 ## 📂 Structure du dépôt
 ```
