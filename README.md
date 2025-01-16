@@ -37,7 +37,7 @@ L'association fait appel à une équipe de Data Analysts afin d’***identifier 
 - **[Dashboard PowerBI](./images/dashboard.png)**
 - **Interface Streamlit**
   - **[Accueil](./images/streamlit_accueil.png)**
-  - **[Evaluation des Risques](./images/streamlit_risque_2.png)**
+  - **[Evaluation des Risques](./images/streamlit_risques_2.png)**
   - **[Statistiques](./images/streamlit_stats_1.png)**
 
 ## 📊 Description du DataSet
