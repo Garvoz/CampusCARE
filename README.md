@@ -17,7 +17,7 @@ Afin de mieux comprendre les profils au sein des différents campus et suivre le
 L'association fait appel à une équipe de Data Analysts afin d’***identifier les facteurs contribuants à la dépression chez les étudiants***, et ***concevoir des stratégies d’intervention précoces***.
 
 ## 🎯 Objectifs
-- Développer un tableau de bord interactif pour le suivi de KPIs (à définir).
+- Développer un tableau de bord interactif pour le suivi de KPIs.
 - Identifier les facteurs contribuant à la dépression chez les étudiants.
 - Concevoir des stratégies d’intervention précoces.
 - Prédire le niveau de dépression des étudiants.
