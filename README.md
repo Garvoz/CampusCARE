@@ -34,7 +34,6 @@ L'association fait appel à une équipe de Data Analysts afin d’***identifier 
 - ### **Accès aux livrables**
 - **[EDA, KPIs & Recommandations Stratégiques](./docs/eda.md)**
 - **[KPI Visualisations (***Python***)](./docs/KPI_visualisations.md)**
-- **[Méthodologie Streamlit](./docs/methodologie_streamlit.md)**
 - **[Dashboard PowerBI](./images/dashboard.png)**
 
 ## 📊 Description du DataSet
@@ -65,7 +64,8 @@ L'association fait appel à une équipe de Data Analysts afin d’***identifier 
 4. Développement d'un tableau de bord interactif.
 5. Prototypage d'une interface utilisateur.
 
-- **[Détails Méthodologie](./docs/methodologie.md)** 
+- **[Plan d'exécution](./docs/methodologie.md)**
+- **[Méthodologie Streamlit](./docs/methodologie_streamlit.md)**
 
 ## 📂 Structure du dépôt
 ```
