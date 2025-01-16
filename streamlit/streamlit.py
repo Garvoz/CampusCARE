@@ -17,13 +17,11 @@ def pickl_listes(lien):
     with open(lien, 'rb') as f: 
         villes = pickle.load(f)
         etudes = pickle.load(f)
-        pression_satisf = pickle.load(f)
         sommeil = pickle.load(f)
         alim = pickle.load(f)
-        stress = pickle.load(f)
-    return villes, etudes, pression_satisf, sommeil, alim, stress
+    return villes, etudes, sommeil, alim
 
-villes, etudes, pression_satisf, sommeil, alim, stress = pickl_listes("../donnees/nettoyees/mes_listes.pkl")
+villes, etudes, sommeil, alim = pickl_listes("../donnees/nettoyees/mes_listes.pkl")
 
 @st.cache_data
 def pickl_ml(lien):
