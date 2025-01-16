@@ -429,7 +429,7 @@ kpi_geo_depression = (df_kpi.groupby('Etat')['Dépression'].mean() * 100).sort_v
 print(f"KPI 1 : Proportion d'étudiants dépressifs : {kpi_depression:.2f}%\n") 
 print(f"KPI 2 : Répartition des heures de sommeil :\n{kpi_sommeil}\n")
 print(f"KPI 3 : Répartition des habitudes alimentaires :\n{kpi_habitudes_alimentaires}\n")
-print(f"KPI 4 : Niveau moyen de pression académique : {kpi_pression:.2f} %\n")
+print(f"KPI 4 : Niveau moyen de pression académique : {kpi_pression:.2f} /5\n")
 print(f"KPI 5 : Proportion d'étudiants avec pensées suicidaires : {kpi_suicidaire:.2f}%\n")
 print(f"KPI 6 : Top 5 des régions au plus fort % d'étudiants dépressifs")
 for etat, pourcentage in kpi_geo_depression.head(5).items():
@@ -453,7 +453,7 @@ for etat, pourcentage in kpi_geo_depression.head(5).items():
     Saines       27.428242
     Name: proportion, dtype: float64
     
-    KPI 4 : Niveau moyen de pression académique : 3.14 %
+    KPI 4 : Niveau moyen de pression académique : 3.14 /5
     
     KPI 5 : Proportion d'étudiants avec pensées suicidaires : 63.27%
     
