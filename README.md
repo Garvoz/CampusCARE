@@ -56,6 +56,8 @@ L'association fait appel à une équipe de Data Analysts afin d’***identifier 
   - **CGPA** : Moyenne académique cumulée (échelle de 0 à 10)
   - **Niveau d'Etude** : Diplôme visé
 
+- **[Nettoyage du DataSet](./docs/nettoyage_v2.md)**
+
 ## 🛠️ Méthodologie
 1. Nettoyage et préparation des données.
 2. Analyse exploratoire des données.
