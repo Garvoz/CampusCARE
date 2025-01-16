@@ -109,22 +109,30 @@ st.markdown(
     unsafe_allow_html=True
     )
 if page == "Accueil":
-    st.markdown("<h1 style='text-align: center;'>🌟 Bienvenue sur Campus Care 🌟</h1>", unsafe_allow_html=True)
-    st.write("""
-             
-        Votre bien-être mental est essentiel! 
-             
-        Campus Care est une application innovante conçue pour aider les étudiants à identifier les risques potentiels de dépression dès les premiers signes. 
-             
+    st.markdown("<h1 style='text-align: center;'>🌟 Campus Care 🌟</h1>", unsafe_allow_html=True)
+    st.markdown("""
+        # Votre bien-être mental est essentiel!
+
+        Campus Care est une application innovante conçue pour aider les étudiants à identifier les risques potentiels de dépression dès les premiers signes.
+
         En analysant les données que vous fournissez, nous estimons le pourcentage de probabilité que vous présentiez des symptômes dépressifs et vous offrons des pistes pour agir en faveur de votre santé mentale.
-             
+
+        De plus, pour mieux vous sensibiliser aux facteurs de risque de la dépression et aux statistiques inquiétantes, une page dédiée aux **statistiques** est disponible. Vous y trouverez des informations importantes sur les tendances et les chiffres relatifs à la dépression chez les étudiants, afin de mieux comprendre l'ampleur du problème et prendre des mesures préventives.
+
+        Enfin, si vous avez besoin de soutien ou de ressources supplémentaires, nous vous fournissons ici quelques **contacts d’aide** :
+
+        - **Soutien téléphonique** : Ligne d’aide santé mentale – **080-1234-5678** (disponible 24h/24)
+        - **Email** : **aide@campuscareindia.org**
+        - **Centre de soutien étudiant** : Campus Care, Bâtiment A, Université de Delhi – **Contactez le 011-2345-6789**
+
+        N'hésitez pas à contacter ces ressources en cas de besoin. Nous sommes ici pour vous aider à prendre soin de vous.
         """)
     st.image('../streamlit/accueil.jpg', use_container_width=True)
 
 if page == "Calculateur de risque":
-    st.markdown("<h1 style='text-align: center;'>Risquez vous la dépression ?</h1>", unsafe_allow_html=True)
+    st.markdown("<h1 style='text-align: center;'>🧠 Risquez vous la dépression ? 🧠</h1>", unsafe_allow_html=True)
 
-    st.write('Répondez à ces quelques questions et nous vous dirons : ')
+    st.write('Répondez à ces quelques questions et nous vous dirons si vous êtes un sujet à risque : ')
 
     city = st.selectbox('Dans quelle ville vivez vous ?', villes, index=None, placeholder="Choisissez une ville")
     col1, col2, col3 = st.columns(3)
@@ -177,3 +185,145 @@ if page == "Calculateur de risque":
 
         if proba > 45:
             st.markdown(f"<h3 style='text-align: center;'>N'hésitez pas : Consultez rapidement votre médecin</h3>", unsafe_allow_html=True)
+
+if page == "Statistiques":
+    st.markdown("<h1 style='text-align: center;'>📉 Plongée dans les chiffres 📈</h1>", unsafe_allow_html=True)
+    st.markdown("<h1 style='text-align: center;'>Comprendre votre santé mentale</h1>", unsafe_allow_html=True)
+    st.markdown("""
+        Bienvenue dans notre espace dédié aux statistiques sur la santé mentale des étudiants ! 
+                
+        Ici, nous vous invitons à explorer les données et à prendre conscience de l'impact des différents facteurs sur votre bien-être mental. Vous découvrirez des informations clés, des tendances et des corrélations qui mettent en lumière les défis auxquels font face de nombreux étudiants.
+
+        À travers des visualisations et des indicateurs clés, vous pourrez observer les comportements, les habitudes de vie et les pressions académiques qui peuvent influencer la santé mentale. Nos statistiques ne sont pas seulement des chiffres, mais une porte d'entrée vers une meilleure compréhension de soi et des ressources disponibles pour prendre soin de votre bien-être.
+
+        Explorez, comprenez et surtout, prenez des décisions éclairées pour votre santé mentale !
+            """)
+    
+    col1, col2, col3 = st.columns([2, 10, 2])
+    with col2:
+        st.image('..\images\dashboard.png', use_container_width=True)
+    
+
+
+    col1, col2 = st.columns(2)
+
+    with col1:
+        st.image('../streamlit/depressifs.png')
+
+    with col2:
+        
+        st.markdown("<h3 style='text-align: center;'>Proportion d'étudiants dépressifs</h3>", unsafe_allow_html=True)
+        st.markdown("""
+        Ce graphique montre le pourcentage d'étudiants qui vivent avec une dépression. Cela nous aide à comprendre combien d'entre nous sont touchés par cette réalité.
+                    
+        **Pourquoi cela vous concerne ?**
+                    
+        La dépression touche plus de la moitié des étudiants. Si vous vous sentez dépassé, sachez que vous n'êtes pas seul. Reconnaître les signes de la dépression et chercher de l'aide tôt peut faire une grande différence. 
+                    
+        Ce diagramme est un rappel que prendre soin de votre santé mentale est aussi important que vos études.
+            """)
+        
+
+        
+    col1, col2 = st.columns(2)
+
+    with col1:
+        st.markdown("<h3 style='text-align: center;'>Répartition des heures de sommeil</h3>", unsafe_allow_html=True)
+        st.markdown("""
+            Ce graphique vous montre combien d’heures de sommeil en moyenne les étudiants accumulent chaque nuit. Vous pourrez voir si vous dormez suffisamment ou si des ajustements sont nécessaires.
+
+            **Pourquoi cela vous concerne ?**
+            Le sommeil joue un rôle fondamental dans votre bien-être mental et physique. Si vous êtes parmi ceux qui dorment moins de 5 heures, sachez que cela peut augmenter votre stress et affecter vos émotions. 
+                    
+            Essayez de prioriser une bonne nuit de sommeil : c'est un moyen simple de prendre soin de vous et d'améliorer vos performances académiques et personnelles.
+                        """)        
+
+
+    with col2:
+        st.image('../streamlit/sommeil.png')
+
+
+
+    col1, col2 = st.columns(2)
+
+    with col1:
+        st.image('../streamlit/alimentation.png')
+
+
+    with col2:
+        
+        st.markdown("<h3 style='text-align: center;'>Répartition des habitudes alimentaires</h3>", unsafe_allow_html=True)
+        st.markdown("""
+        Ce graphique vous montre les types d'aliments que les étudiants consomment en majorité: sains, modérés ou mauvais pour la santé. Il reflète l'impact de notre alimentation sur notre bien-être.
+
+        **Pourquoi cela vous concerne ?**
+                    
+        Votre alimentation influence directement votre humeur et votre énergie. Si vous avez tendance à consommer des aliments peu équilibrés, cela peut affecter votre concentration et votre humeur. 
+                    
+        Adopter des habitudes alimentaires plus saines peut réduire le stress et vous aider à vous sentir mieux au quotidien. Votre bien-être passe aussi par votre assiette !
+                    
+        """)
+                    
+
+    col1, col2 = st.columns(2)
+
+    with col1:
+        st.markdown("<h3 style='text-align: center;'>Niveau moyen de pression académique</h3>", unsafe_allow_html=True)
+        st.markdown("""
+            Ce graphique montre le niveau moyen de stress académique que les étudiants ressentent. Il nous aide à comprendre si nous sommes trop sollicités par nos études.
+
+            **Pourquoi cela vous concerne ?**
+                    
+            Le stress académique est un problème que beaucoup d'entre nous connaissent. Si vous ressentez de la pression, sachez que vous n'êtes pas seul. Apprendre à gérer ce stress et à organiser vos priorités est essentiel. 
+                    
+            En prenant du recul et en vous entourant des bonnes ressources, vous pouvez mieux supporter cette pression et préserver votre bien-être.
+                        """)        
+
+
+    with col2:
+        st.image('../streamlit/pression.png')
+
+    col1, col2 = st.columns(2)
+
+    with col1:
+        st.image('../streamlit/suicide.png')
+
+
+
+    with col2:
+        
+        st.markdown("<h3 style='text-align: center;'>Proportion d'étudiants avec pensées suicidaires</h3>", unsafe_allow_html=True)
+        st.markdown("""
+        Ce graphique montre le pourcentage d'étudiants qui ont eu des pensées suicidaires. C’est un indicateur important pour comprendre à quel point certains d’entre nous peuvent se sentir perdus ou désemparés.
+
+        **Pourquoi cela vous concerne ?**
+                    
+        Si vous vous sentez dans une situation de désespoir ou que vous avez des pensées suicidaires, il est crucial de demander de l'aide. Plus de 60 % des étudiants ont rapporté ce genre de pensées. N'ayez pas peur de parler à quelqu'un de confiance. 
+                    
+        Vous méritez de vous sentir soutenu et d’avoir les ressources nécessaires pour aller mieux.
+                    
+        """)
+
+    col1, col2 = st.columns(2)
+
+    with col1:
+        st.markdown("<h3 style='text-align: center;'>Répartition géographique des étudiants dépressifs</h3>", unsafe_allow_html=True)
+        st.markdown("""
+            Ce graphique vous montre où les étudiants souffrant de dépression sont les plus nombreux, selon les régions. Il vous permet de mieux comprendre les disparités géographiques.
+
+            **Pourquoi cela vous concerne ?**
+                    
+            Certaines régions sont plus touchées que d’autres par la dépression. Si vous êtes dans une zone où la dépression est plus présente, il est d’autant plus important de chercher du soutien et de prendre soin de vous. 
+                    
+            Peu importe où vous êtes, des ressources sont disponibles pour vous aider à surmonter les moments difficiles. N'attendez pas pour agir et prendre soin de votre santé mentale.
+                        """)        
+
+
+    with col2:
+        st.image('../streamlit/map.png')
+
+
+        
+
+        
+        

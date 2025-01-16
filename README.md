@@ -31,8 +31,9 @@ L'association fait appel à une équipe de Data Analysts afin d’***identifier 
 4. Modèle de prédiction de dépression (probalité)
 5. Interface utilisateur permettant la saisie
 
-- **[Analyse Exploratoire (EDA), KPIs, Recommandations Stratégiques](./docs/eda.md)**
+- **[EDA, KPIs & Recommandations Stratégiques](./docs/eda.md)**
 - **[KPI Visualisations](./docs/KPI_visualisations.md)**
+- **[Méthodologie Streamlit](./docs/methodologie_streamlit.md)**
 
 ## 📊 Description du DataSet
 
