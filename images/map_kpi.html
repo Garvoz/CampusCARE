@@ -1,0 +1,326 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_06f9d8594f6d4b7afd908b57b9515fec {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_06f9d8594f6d4b7afd908b57b9515fec" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_06f9d8594f6d4b7afd908b57b9515fec = L.map(
+                "map_06f9d8594f6d4b7afd908b57b9515fec",
+                {
+                    center: [20.5937, 78.9629],
+                    crs: L.CRS.EPSG3857,
+                    ...{
+  "zoom": 5,
+  "zoomControl": true,
+  "preferCanvas": false,
+}
+
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_f91361723a241486130bb3cab180fec2 = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {
+  "minZoom": 0,
+  "maxZoom": 19,
+  "maxNativeZoom": 19,
+  "noWrap": false,
+  "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors",
+  "subdomains": "abc",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
+
+            );
+        
+    
+            tile_layer_f91361723a241486130bb3cab180fec2.addTo(map_06f9d8594f6d4b7afd908b57b9515fec);
+        
+    
+            var circle_marker_6e4302c8729afbd3e91aac90a3ac6778 = L.circleMarker(
+                [17.7, 83.25],
+                {"bubblingMouseEvents": true, "color": "crimson", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "crimson", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5.693581780538302, "stroke": true, "weight": 3}
+            ).addTo(map_06f9d8594f6d4b7afd908b57b9515fec);
+        
+    
+            circle_marker_6e4302c8729afbd3e91aac90a3ac6778.bindTooltip(
+                `<div>
+                     Andhra Pradesh: 56.94%
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_fc95a725e060616705ab101843c8be57 = L.circleMarker(
+                [25.61, 85.16],
+                {"bubblingMouseEvents": true, "color": "crimson", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "crimson", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6.321036889332004, "stroke": true, "weight": 3}
+            ).addTo(map_06f9d8594f6d4b7afd908b57b9515fec);
+        
+    
+            circle_marker_fc95a725e060616705ab101843c8be57.bindTooltip(
+                `<div>
+                     Bihar: 63.21%
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_231b70940e15431e530667800f3e986e = L.circleMarker(
+                [28.6, 77.13],
+                {"bubblingMouseEvents": true, "color": "crimson", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "crimson", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6.091503267973856, "stroke": true, "weight": 3}
+            ).addTo(map_06f9d8594f6d4b7afd908b57b9515fec);
+        
+    
+            circle_marker_231b70940e15431e530667800f3e986e.bindTooltip(
+                `<div>
+                     Delhi: 60.92%
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_55fbf264beccb270c9ddcb8c65855c04 = L.circleMarker(
+                [22.15360124964499, 72.3654103947742],
+                {"bubblingMouseEvents": true, "color": "crimson", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "crimson", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6.109059926157341, "stroke": true, "weight": 3}
+            ).addTo(map_06f9d8594f6d4b7afd908b57b9515fec);
+        
+    
+            circle_marker_55fbf264beccb270c9ddcb8c65855c04.bindTooltip(
+                `<div>
+                     Gujarat: 61.09%
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_8a321e704aff68df08e572be696017e3 = L.circleMarker(
+                [28.42, 77.3],
+                {"bubblingMouseEvents": true, "color": "crimson", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "crimson", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5.860566448801743, "stroke": true, "weight": 3}
+            ).addTo(map_06f9d8594f6d4b7afd908b57b9515fec);
+        
+    
+            circle_marker_8a321e704aff68df08e572be696017e3.bindTooltip(
+                `<div>
+                     Haryana: 58.61%
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_1145342a974176dc8bb61fefaa45d0ce = L.circleMarker(
+                [34.08, 74.8],
+                {"bubblingMouseEvents": true, "color": "crimson", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "crimson", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5.566934893928311, "stroke": true, "weight": 3}
+            ).addTo(map_06f9d8594f6d4b7afd908b57b9515fec);
+        
+    
+            circle_marker_1145342a974176dc8bb61fefaa45d0ce.bindTooltip(
+                `<div>
+                     Jammu & Kashmir: 55.67%
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_7b67d17e71a8ef098b9027d6804c5e6c = L.circleMarker(
+                [12.978900000000001, 77.5917],
+                {"bubblingMouseEvents": true, "color": "crimson", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "crimson", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6.078431372549019, "stroke": true, "weight": 3}
+            ).addTo(map_06f9d8594f6d4b7afd908b57b9515fec);
+        
+    
+            circle_marker_7b67d17e71a8ef098b9027d6804c5e6c.bindTooltip(
+                `<div>
+                     Karnataka: 60.78%
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_16bfeceee521d2b4269cba34b915f179 = L.circleMarker(
+                [23.03960584869676, 76.77738715829625],
+                {"bubblingMouseEvents": true, "color": "crimson", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "crimson", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6.1411315956770505, "stroke": true, "weight": 3}
+            ).addTo(map_06f9d8594f6d4b7afd908b57b9515fec);
+        
+    
+            circle_marker_16bfeceee521d2b4269cba34b915f179.bindTooltip(
+                `<div>
+                     Madhya Pradesh: 61.41%
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_05a33681c401187cd35a6c2d515fe3cb = L.circleMarker(
+                [19.45115259568018, 73.91528325123153],
+                {"bubblingMouseEvents": true, "color": "crimson", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "crimson", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5.655551345206518, "stroke": true, "weight": 3}
+            ).addTo(map_06f9d8594f6d4b7afd908b57b9515fec);
+        
+    
+            circle_marker_05a33681c401187cd35a6c2d515fe3cb.bindTooltip(
+                `<div>
+                     Maharashtra: 56.56%
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_ad36a9b31197f8782e77080a15b163ea = L.circleMarker(
+                [30.899999999999995, 75.86],
+                {"bubblingMouseEvents": true, "color": "crimson", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "crimson", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5.826558265582656, "stroke": true, "weight": 3}
+            ).addTo(map_06f9d8594f6d4b7afd908b57b9515fec);
+        
+    
+            circle_marker_ad36a9b31197f8782e77080a15b163ea.bindTooltip(
+                `<div>
+                     Punjab: 58.27%
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_d3b6b69abc89f4f513d68586a43a4e5c = L.circleMarker(
+                [26.92, 75.78],
+                {"bubblingMouseEvents": true, "color": "crimson", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "crimson", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5.246853823814133, "stroke": true, "weight": 3}
+            ).addTo(map_06f9d8594f6d4b7afd908b57b9515fec);
+        
+    
+            circle_marker_d3b6b69abc89f4f513d68586a43a4e5c.bindTooltip(
+                `<div>
+                     Rajasthan: 52.47%
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_060e101c181df0346f124fc98124639d = L.circleMarker(
+                [13.07, 80.24],
+                {"bubblingMouseEvents": true, "color": "crimson", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "crimson", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5.968289920724802, "stroke": true, "weight": 3}
+            ).addTo(map_06f9d8594f6d4b7afd908b57b9515fec);
+        
+    
+            circle_marker_060e101c181df0346f124fc98124639d.bindTooltip(
+                `<div>
+                     Tamil Nadu: 59.68%
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_6d05018e32a042c67bd5e66c1933db63 = L.circleMarker(
+                [17.4011, 78.4794],
+                {"bubblingMouseEvents": true, "color": "crimson", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "crimson", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6.699101796407186, "stroke": true, "weight": 3}
+            ).addTo(map_06f9d8594f6d4b7afd908b57b9515fec);
+        
+    
+            circle_marker_6d05018e32a042c67bd5e66c1933db63.bindTooltip(
+                `<div>
+                     Telangana: 66.99%
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_f057e6b8d98098ee1d75e458a443a781 = L.circleMarker(
+                [27.275774896876843, 79.48919858573954],
+                {"bubblingMouseEvents": true, "color": "crimson", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "crimson", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5.545079552150854, "stroke": true, "weight": 3}
+            ).addTo(map_06f9d8594f6d4b7afd908b57b9515fec);
+        
+    
+            circle_marker_f057e6b8d98098ee1d75e458a443a781.bindTooltip(
+                `<div>
+                     Uttar Pradesh: 55.45%
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_b6304676b405c6222823b2b48a7b2b21 = L.circleMarker(
+                [22.814435114503816, 88.40173282442748],
+                {"bubblingMouseEvents": true, "color": "crimson", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "crimson", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5.99618320610687, "stroke": true, "weight": 3}
+            ).addTo(map_06f9d8594f6d4b7afd908b57b9515fec);
+        
+    
+            circle_marker_b6304676b405c6222823b2b48a7b2b21.bindTooltip(
+                `<div>
+                     West Bengal: 59.96%
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+</script>
+</html>
