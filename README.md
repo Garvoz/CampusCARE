@@ -40,9 +40,9 @@ L'association fait appel à une équipe de Data Analysts afin d’***identifier 
 - Modèle de prédiction de dépression (probalité)
 - Interface utilisateur permettant la saisie
 
-## 📊 Description du DataSet
+- **[Analyse Exploratoire (EDA), KPIs, Recommandations Stratégiques](./docs/eda.md)** 
 
-- **[Analyse Exploratoire (EDA)](./docs/eda.md)** 
+## 📊 Description du DataSet
 
 - ***27901*** réponses à l'enquête anonyme.
 - **Descriptif des colonnes** ***(éléments de réponse de chaque étudiant.e)***
