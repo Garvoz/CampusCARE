@@ -33,6 +33,7 @@ L'association fait appel à une équipe de Data Analysts afin d’***identifier 
 
 - **[EDA, KPIs & Recommandations Stratégiques](./docs/eda.md)**
 - **[KPI Visualisations](./docs/KPI_visualisations.md)**
+- **[Méthodologie Streamlit](./docs/methodologie_streamlit.md)**
 
 ## 📊 Description du DataSet
 
