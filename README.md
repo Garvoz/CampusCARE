@@ -82,7 +82,7 @@ CampusCARE/
 └── README.md               # Description du projet
 ```
 
-## Conclusion
+## 💡 Conclusion
 
 Au-delà de l’aspect technique, ce business case, bien que fictif, aborde un enjeu humain profond : la santé mentale des étudiants. Il rappelle l’importance de mettre les données au service d’actions concrètes et ciblées pour améliorer le bien-être collectif.
 
