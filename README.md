@@ -31,7 +31,7 @@ L'association fait appel à une équipe de Data Analysts afin d’***identifier 
 4. Modèle de prédiction de dépression (probabilité)
 5. Interface utilisateur permettant la saisie
 
-**Accès aux livrables**
+### **Accès aux livrables**
 - **[EDA, KPIs & Recommandations Stratégiques](./docs/eda.md)**
 - **[KPI Visualisations](./docs/KPI_visualisations.md)**
 - **[Méthodologie Streamlit](./docs/methodologie_streamlit.md)**
