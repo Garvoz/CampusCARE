@@ -28,7 +28,7 @@ L'association fait appel à une équipe de Data Analysts afin d’***identifier 
 1. Définitions de KPI
 2. Recommandations de stratégies d'intervention anticipées
 3. Dashboard Interactif
-4. Modèle de prédiction de dépression (probalité)
+4. Modèle de prédiction de dépression (probabilité)
 5. Interface utilisateur permettant la saisie
 
 - **[EDA, KPIs & Recommandations Stratégiques](./docs/eda.md)**
