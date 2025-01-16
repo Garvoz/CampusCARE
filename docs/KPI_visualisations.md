@@ -354,7 +354,6 @@ print("Carte interactive sauvegardée dans :", map_path)
     Carte interactive sauvegardée dans : ../images/map_suicide.html
     
 
-
 ```python
 map_suicide
 ```
