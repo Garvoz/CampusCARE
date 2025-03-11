@@ -80,7 +80,7 @@ CampusCARE/
 │   ├── nettoyees/          # Données nettoyées ou modifiées
 ├── scripts/                # Scripts Python pour le traitement, l'analyse et la modélisation
 ├── notebooks/              # Notebooks pour l'exploration et la visualisation des données
-├── streamlit/              # Code pour l'interface utilisateur
+├── streamlit/              # Images de l'interface utilisateur
 ├── dataviz/                # Graphiques, visualisations et rapport final
 ├── docs/                   # Documentation, Méthodologie
 ├── images/                 # Visuels, Captures d'écran, logos
