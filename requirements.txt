@@ -1,5 +1,7 @@
 numpy
 pandas
-pickle
+pickle-mixin
+requests
+scikit-learn
 streamlit
-streamlit_option_menu
+streamlit-option-menu
