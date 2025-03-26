@@ -4,7 +4,7 @@ import pickle
 import streamlit as st
 from streamlit_option_menu import option_menu
 
-st.set_page_config( layout="wide", page_title = "Campus Care", page_icon= '../streamlit/logo.png')
+st.set_page_config( layout="wide", page_title = "Campus Care", page_icon= "./streamlit/logo.png")
 
 @st.cache_data
 def charger_csv(lien):
@@ -201,7 +201,7 @@ if page == "Statistiques":
     
     col1, col2, col3 = st.columns([2, 10, 2])
     with col2:
-        st.image('.\images\dashboard.png', use_container_width=True)
+        st.image('./images/dashboard.png', use_container_width=True)
     
 
 
